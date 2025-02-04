@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##The File Integrity Checker is a Python-based utility that monitors changes in files within a specified directory. It calculates cryptographic hash values for files and compares them with previously stored hashes to detect modifications, additions, or deletions.
+The File Integrity Checker is a Python-based utility that monitors changes in files within a specified directory. It calculates cryptographic hash values for files and compares them with previously stored hashes to detect modifications, additions, or deletions.
 
 How It Works
 Hash Calculation:
